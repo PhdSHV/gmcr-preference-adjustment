@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the associated thesis."
+title: "Optimal Preference Adjustment in GMCR"
+type: software
+version: 1.0.0
+date-released: 2026-07-31
+authors:
+  - family-names: Silva
+    given-names: Hugo Victor
+  - family-names: Rêgo
+    given-names: Leandro Chaves
+  - family-names: Rodrigues
+    given-names: Carlos Diego
+preferred-citation:
+  type: thesis
+  title: "Ajustes Ótimos de Perfis de Preferências Transitivas no Modelo de Grafo para Resolução de Conflitos"
+  authors:
+    - family-names: Silva
+      given-names: Hugo Victor
+  institution:
+    name: "Universidade Federal de Pernambuco"
+  year: 2026

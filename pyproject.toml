@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gmcr-optimal-preference-adjustment"
+version = "1.0.0"
+description = "Integer optimization models for optimal adjustment of transitive preference profiles in GMCR"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pulp>=2.8,<4",
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
