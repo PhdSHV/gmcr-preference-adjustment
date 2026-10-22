@@ -1,0 +1,6 @@
+criterion,state,horizon,cost
+maximin,9,3,16
+focal_credible,9,3,16
+opponent_credible,9,3,22
+total_credible,9,3,22
+indifference,9,3,14
